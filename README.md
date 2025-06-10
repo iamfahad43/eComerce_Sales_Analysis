@@ -61,7 +61,7 @@ This repo provides both an **interactive notebook** for exploration and **produc
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-user/ecommerce-sales-analytics.git
+   git clone https://github.com/iamfahad43/ecommerce-sales-analytics.git
    cd ecommerce-sales-analytics
    ```
 
